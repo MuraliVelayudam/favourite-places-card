@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+.bg-container{
+    background-image: url("./asserts/ancient-ruins-angkor-majestic-spirituality-praying-generated-by-ai.jpg");
+    background-size:cover;
+    height:100vh;
+    background-position: center;
+    background-attachment: fixed;
+}
+.fav-heading{
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+}
+.fav-card{
+    background-color: black;
+    opacity: 0.6;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.image{
+    height: 140px;
+    width: 150px;
+    border-radius: 20px;
+}
+.place-head{
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: 1px;
+    color: white;
+}
+.place-para{
+    color: white;
+}
+.des-card{
+    padding: 10px;
+}
